@@ -1,16 +1,54 @@
-## Hi there 👋
+# Muhammad Fakhir Rafiq
 
-<!--
-**fakhirrafiq/fakhirrafiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student interested in software development and modern technologies. I enjoy learning programming, building software projects, and improving my technical skills. I am currently developing my knowledge of Git, GitHub, VS Code, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python, C# |
+| Database | SQL |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Object-Oriented Programming, Software Engineering |
+
+## Featured Projects
+
+### Software Engineering Lab
+
+A collection of practical work related to Git, GitHub, version control, and software development.
+
+### Programming Projects
+
+Small projects and programming exercises created while learning software development.
+
+## Education
+
+**Bachelor of Science in Software Engineering**  
+University of Engineering and Technology, Lahore
+
+## Currently Learning
+
+- Git and GitHub
+- Software Engineering
+- C# Programming
+- Python
+- Database Management
+- Version Control
+
+## Areas of Interest
+
+- Software Development
+- Web Development
+- Programming
+- Databases
+- Modern Technology
+
+## Contact
+
+- GitHub: [@fakhirrafiq](https://github.com/fakhirrafiq)
+
+## Goals
+
+My goal is to become a skilled software developer and continuously improve my programming and software engineering skills.
